@@ -1,7 +1,5 @@
 let illegalMethod = IllegalCharacterFound
 
-
-
 function submitBinary(){
     let binaryInput = document.getElementById("binaryInput")
     let binaryDisplay = document.getElementById("binaryDisplay")
