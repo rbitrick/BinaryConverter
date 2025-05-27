@@ -7,7 +7,6 @@ function submitBinary(){
     let chars = input.split('')
     let illegalCharacterFound = false;
     let illegalCharPos;
-    let expo
 
     console.log(chars)
 
